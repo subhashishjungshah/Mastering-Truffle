@@ -15,7 +15,7 @@ Follow these steps to get started with this repository:
 2. **Clone this Repository**: Clone this repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/yourusername/learning-truffle-repo.git
+   git clone https://github.com/subhashishjungshah/Mastering-Truffle.git
    cd learning-truffle-repo
    ```
 
